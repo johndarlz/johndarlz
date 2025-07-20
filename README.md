@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋  
+I’m Jnaneswar, a Senior Staff Engineer (DevOps & Cloud) with 8+ years building production‑grade apps.
 
-<!--
-**johndarlz/johndarlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💡 Skills  
+- 💻 Languages: Python, JavaScript  
+- ⚙️ DevOps: AWS, Docker, GitHub Actions  
+- 🧪 Testing: Selenium, PyTest  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Featured Projects  
+- **node‑todo‑cicd** – Automated CI/CD starter kit using Node.js, Docker, Jenkins, and Terraform  
+- **tws‑portfolio** – My portfolio site with hosted demos and workflows  
+
+---
+
+## 📊 GitHub Stats  
+
+---
+
+## 📬 Contact  
+- 🌐 Web: https://your‑site.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/your‑profile)  
+- 📧 your.email@example.com
