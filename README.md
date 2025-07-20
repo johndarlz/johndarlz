@@ -59,9 +59,9 @@ A passionate technologist blending creativity and code — from crafting intuiti
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnu-kandukuri&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnu-kandukuri&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnu-kandukuri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johndarlz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndarlz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndarlz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ A passionate technologist blending creativity and code — from crafting intuiti
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnu-kandukuri&theme=gruvbox&margin-w=10&no-frame=true" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=johndarlz&theme=gruvbox&margin-w=10&no-frame=true" alt="Trophies"/>
 </p>
 
 ---
