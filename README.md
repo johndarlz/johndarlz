@@ -91,15 +91,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndarlz&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johndarlz&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndarlz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 📬 Connect with Me
 
@@ -116,8 +108,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darlz&show_icons=true&theme=radical" alt="darlz stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlz&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darlz&show_icons=true&theme=radical" alt="darlz stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlz&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
 ---
