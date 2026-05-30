@@ -1,124 +1,228 @@
-<!-- GitHub Profile README for Jnaneswar -->
+<!-- ========================= -->
 
-<h1 align="center">Hi there 👋, I'm Jnaneswar</h1>
+<!-- GitHub Profile README -->
+
+<!-- ========================= -->
+
+<h1 align="center">Hi 👋, I'm Jnaneswar</h1>
 
 <p align="center">
-  <b>Developer | Tester | Cloud & DevOps Integrator | AI Enthusiast</b><br>
-  A passionate technologist blending creativity and code — from crafting intuitive UI/UX to building robust backend systems.<br>
-  Curious by nature, precise by execution.
+  <b>Backend Developer | Security Engineer | Cloud Enthusiast</b><br>
+  Building scalable backend systems and securing applications from the inside out.
 </p>
 
 ---
 
-### 💼 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working as a **Senior Staff Engineer (DevOps & Cloud)**
-- 👨‍💻 8+ years of professional experience building **production-grade systems**
-- 🚀 Exploring innovations in **AI**, **Edge computing**, and **MLOps**
-- 🎯 Focused on **Automation**, **Performance**, and **Resilience**
-- 💬 Ask me about DevOps, CI/CD, Cloud, Python, and testing strategies
-- ⚡ Fun fact: I started as a designer before transitioning to full-stack DevOps
+Hi, I'm Jnaneswar.
+
+I'm a Backend Developer and Security Engineer based in India. I specialize in building secure, scalable, and high-performance applications using Java and Spring Boot.
+
+My approach combines software engineering with cybersecurity. I enjoy designing backend systems, developing APIs, optimizing performance, and identifying security vulnerabilities before they become real-world problems.
+
+I believe great software is not only functional and scalable—it is secure by design.
+
+* 🔭 Building modern backend applications
+* 🔐 Passionate about Application Security
+* ☁️ Exploring Cloud Technologies
+* 🚀 Interested in AI, Automation, and System Design
+* 💡 Focused on Clean Architecture and Secure Coding
+* 📚 Continuously learning new technologies and security practices
 
 ---
 
-### 🧠 Skills & Tools
+# 💻 What I Do
 
-#### 🖥️ Programming Languages  
+## Backend Development
+
+Designing and building scalable backend applications with modern architectures.
+
+* Java Development
+* Spring Boot Applications
+* REST API Development
+* Microservices Architecture
+* Database Design
+* System Integration
+* Performance Optimization
+
+---
+
+## Security Engineering
+
+Finding and fixing vulnerabilities before attackers can exploit them.
+
+* Web Application Security Testing
+* API Security Assessment
+* Vulnerability Assessment
+* Penetration Testing
+* Secure Code Review
+* Authentication & Authorization Security
+* OWASP Top 10 Mitigation
+
+---
+
+# 🛠️ Technical Skills
+
+## Backend Development
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
 </p>
 
-#### ☁️ Cloud Platforms  
+### Backend Expertise
+
+| Skill                | Proficiency |
+| -------------------- | ----------- |
+| Java                 | 95%         |
+| Spring Boot          | 92%         |
+| REST APIs            | 90%         |
+| Microservices        | 88%         |
+| System Design        | 85%         |
+| Backend Architecture | 90%         |
+
+---
+
+## Security
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 </p>
 
-#### ⚙️ DevOps & Automation Tools  
+### Security Expertise
+
+| Skill                    | Proficiency |
+| ------------------------ | ----------- |
+| Web Application Security | 95%         |
+| OWASP Top 10             | 95%         |
+| Vulnerability Assessment | 90%         |
+| Penetration Testing      | 88%         |
+| API Security             | 90%         |
+| Secure Code Review       | 85%         |
+
+---
+
+## ☁️ Cloud Technologies
+
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
-#### 🧪 Testing & QA  
+### Cloud Skills
+
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+* Cloud Security Fundamentals
+* Cloud Infrastructure Management
+* Cloud Deployment & Monitoring
+
+---
+
+## 🗄️ Databases
+
 <p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+# 📊 Professional Focus
 
-- **AWS S3 Website Deployment with GitHub Actions**  
-  🧩 Automates CI/CD with GitHub Actions & S3  
-  🌐 [Visit Project](http://john-portfilo.s3-website.ap-south-1.amazonaws.com/)
+### Backend Engineering
 
-- *(More projects coming soon...)*
+███████████████████░ 95%
+
+### Security Engineering
+
+██████████████████░░ 90%
+
+### Cloud Technologies
+
+█████████████████░░░ 85%
+
+### Artificial Intelligence
+
+████████████████░░░░ 80%
 
 ---
 
-### 🏆 Earned Certifications
+# 📖 My Journey
 
-- 🥇 AWS Certified Solutions Architect – Associate  
-- 🥇 Microsoft Azure Administrator  
-- 🥇 Certified Kubernetes Administrator (CKA)  
-- 🥇 Jenkins Certification  
-- 🥇 DevOps on Cloud – Coursera  
-- 🥇 Selenium & Automation Testing – Udemy  
+### 🚀 2020 — First Line of Code
+
+Started with HTML, CSS, and Java. Quickly became fascinated by how software can solve real-world problems.
+
+### 🔐 2022 — Security Discovery
+
+Discovered cybersecurity through hands-on labs and security challenges. Learned how attackers exploit vulnerabilities and how to defend against them.
+
+### ⚙️ 2024 — Backend & Security Together
+
+Started building backend systems with security integrated from the beginning instead of treating it as an afterthought.
+
+### 🎯 Today
+
+Focused on developing secure, scalable applications while continuously improving security practices and backend architecture skills.
 
 ---
 
-### 📈 Profile Views
+# 🏆 Certifications
+
+* AWS Certified Cloud Practitioner
+* AWS Solutions Architect Associate
+* Microsoft Azure Fundamentals
+* Google Cloud Fundamentals
+* Spring Boot & Microservices
+* Ethical Hacking Fundamentals
+* OWASP Web Security Training
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnu-kandukuri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
+# 📫 Connect With Me
 
+🌐 Portfolio: https://darlz.vercel.app/
 
-### 📬 Connect with Me
+💼 LinkedIn: https://linkedin.com/in/jnaneswar
 
-<p>
-  🌐 Portfolio: <a href="https://johndarlz.netlify.app/">https://johndarlz.netlify.app</a>  
-  <br/>
-  🔗 <a href="https://linkedin.com/in/your-profile">LinkedIn</a>  
-  📧 Email: johnu.kandukuri@gmail.com  
-  📱 Phone: +91 78158 79588
-</p>
+📧 Email: [johnu.kandukuri@gmail.com](mailto:johnu.kandukuri@gmail.com)
+
+🐙 GitHub: https://github.com/johndarlz
 
 ---
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darlz&show_icons=true&theme=radical" alt="darlz stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlz&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <i>"Build scalable systems. Secure them. Keep learning."</i>
 </p>
-
----
-
-
-
-
-> 💬 *“Code with purpose, deploy with confidence, and never stop learning.”*
-
----
-
-<p align="center">Made with ❤️ by Jnaneswar</p>
