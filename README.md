@@ -190,26 +190,7 @@ Focused on developing secure, scalable applications while continuously improving
 
 ---
 
-# 🏆 Certifications
 
-* AWS Certified Cloud Practitioner
-* AWS Solutions Architect Associate
-* Microsoft Azure Fundamentals
-* Google Cloud Fundamentals
-* Spring Boot & Microservices
-* Ethical Hacking Fundamentals
-* OWASP Web Security Training
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
